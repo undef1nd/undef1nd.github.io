@@ -43,7 +43,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
 
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
+# Your website URL
 # Used for Sitemap.xml and your RSS feed
 url: http://undef1nd.github.io
 enforce_ssl: https:/undef1nd.github.io
